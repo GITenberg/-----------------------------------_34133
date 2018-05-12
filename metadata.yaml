@@ -1,0 +1,33 @@
+_repo: '-----------------------------------_34133'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vizyenos, G. M. (Georgios M.)
+    aliases:
+    - Vizyenos, Georgios M.
+    - Bizyenos, Georgios
+    - Βιζυηνός, Γ. Μ. (Γεώργιος Μ.)
+    - Viziinos, Gheorghios
+    - Viziinòs, Gheorghios
+    birthdate: 1849
+    deathdate: 1896
+    gutenberg_agent_id: '36812'
+    url: http://www.gutenberg.org/2009/agents/36812
+    wikipedia: http://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%92%CE%B9%CE%B6%CF%85%CE%B7%CE%BD%CF%8C%CF%82
+description: ''
+gutenberg_issued: '2010-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34133'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek fiction, Modern'
+- !lcc 'PA'
+title: Ποίος ήτον ο φονεύς του αδελφού μου
+url: http://www.gutenberg.org/ebooks/34133
